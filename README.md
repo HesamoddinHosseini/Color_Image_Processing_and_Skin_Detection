@@ -39,9 +39,6 @@ Result)
 
 Original image and skin identification by algorithm:
 
-Fig Im 1916:
-
-<img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
 
 Fig Im1911:
 
@@ -55,9 +52,19 @@ Fig Im1913:
 
 ![Screen Shot 2023-07-28 at 3 22 39 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/6fdf7c5b-0a5c-4fc7-bcf9-a48cbd34edf3)
 
-Fig IM1914:
+Fig Im1914:
 
 ![Screen Shot 2023-07-28 at 3 24 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/0d8ba023-65ae-48e8-8867-f8abb951ffd0)
+
+Fig Im1915:
+
+![Screen Shot 2023-07-28 at 3 25 40 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/f8c285a2-1beb-40cb-9967-90538618197b)
+
+Fig Im 1916:
+
+<img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
+
+
 
 
 Hesamoddin Hosseini
@@ -103,9 +110,6 @@ Im 1910 =تصاویری از پوست های مختلف
 
 تصویر اصلی و شناسایی پوست توسط الگوریتم:
 
-Fig Im 1916:
-
-<img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
 
 Fig Im 1911:
 
@@ -119,9 +123,19 @@ Fig Im1913:
 
 ![Screen Shot 2023-07-28 at 3 22 39 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/6fdf7c5b-0a5c-4fc7-bcf9-a48cbd34edf3)
 
-Fig IM1914:
+Fig Im1914:
 
 ![Screen Shot 2023-07-28 at 3 24 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/0d8ba023-65ae-48e8-8867-f8abb951ffd0)
+
+Fig Im1915:
+
+![Screen Shot 2023-07-28 at 3 25 40 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/f8c285a2-1beb-40cb-9967-90538618197b)
+
+Fig Im 1916:
+
+<img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
+
+
 
 
 Hesamoddin Hosseini
