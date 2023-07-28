@@ -1,6 +1,6 @@
 # Digital Image Processing (DIP),Color Image Processing and Skin Detection, Mini-Project 6
 
-
+# English
 
 Question)
 
@@ -31,6 +31,8 @@ In this algorithm, we first convert the image into a color space in which chroma
 We use Matlab to implement this project.
 
 Hesamoddin Hosseini
+
+# Persian
 
 سوال)
 
