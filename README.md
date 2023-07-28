@@ -41,6 +41,8 @@ Original image and skin identification by algorithm:
 
 <img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
 
+<img width="678" alt="Screen Shot 2023-07-28 at 3 17 05 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/2dd023c5-347e-49ac-aaea-ada4d56b82a3">
+
 
 Hesamoddin Hosseini
 
@@ -86,6 +88,9 @@ Im 1910 =تصاویری از پوست های مختلف
 تصویر اصلی و شناسایی پوست توسط الگوریتم:
 
 <img width="676" alt="Screen Shot 2023-07-28 at 3 13 29 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/03daa1b2-0072-4150-9066-0f844da920cf">
+
+
+<img width="678" alt="Screen Shot 2023-07-28 at 3 17 05 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/2dd023c5-347e-49ac-aaea-ada4d56b82a3">
 
 
 
