@@ -67,8 +67,8 @@ Fig Im 1916:
 
 
 ----------------------------------------
-Hesamoddin Hosseini, M.sc AI Student at FUM
----------------------------------------
+Hesamoddin Hosseini
+
 # Persian
 
 سوال)
@@ -138,5 +138,5 @@ Fig Im 1916:
 
 
 -------------------------------------------
-Hesamoddin Hosseini, M.sc AI Student at FUM
----------------------------------------------
+Hesamoddin Hosseini
+
