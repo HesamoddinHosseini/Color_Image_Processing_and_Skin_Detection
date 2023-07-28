@@ -16,6 +16,9 @@ c. Now we form the Likelihood image of the color image i.e. ILH(x,y) in such a w
 
 b. Now we form the two-dimensional histogram H(n_r,n_g) for a sample part of the resulting image (IR(x,y)). For this purpose, we quantize the r and g values in this part of the image to N levels (assume the normalized values are nr and ng). We form the H matrix with dimensions of NxN with zero values and then scan the image and add one unit for each pixel of IR(x,y), the row and column corresponding to nr and ng in the histogram matrix.
 
+![Screen Shot 2023-07-28 at 3 01 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ec0ee326-13ea-432a-abaf-69f97bd19411)
+
+
 
 
 Abstract)
@@ -38,9 +41,12 @@ Hesamoddin Hosseini
 
 <img width="243" alt="Screen Shot 2023-07-28 at 2 54 04 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/eab3406f-a7ad-4bd7-8bde-776173b16147">
 
-	ب) حال هیستوگرام دو بعدی (H(n_r,n_g را برای بخش نمونه‌ای از تصویر حاصل  ((IR(x,y) تشکیل می‌دهیم. برای این منظور، مقادیر r و g در این بخش از تصویر را به N سطح کوانتایز می‌کنیم (فرض کنید مقادیر نرمالیزه شده nr و ng است). ماتریس H به ابعاد NxN با مقادیر صفر را تشکیل می‌دهیم و سپس تصویر را اسکن کرده و به ازای هر پیکسل از (IR(x,y، سطر و ستون متناظر با nr و ng در ماتریس هیستوگرام را یک واحد اضافه می‌کنیم.
+ب) حال هیستوگرام دو بعدی (H(n_r,n_g را برای بخش نمونه‌ای از تصویر حاصل  ((IR(x,y) تشکیل می‌دهیم. برای این منظور، مقادیر r و g در این بخش از تصویر را به N سطح کوانتایز می‌کنیم (فرض کنید مقادیر نرمالیزه شده nr و ng است). ماتریس H به ابعاد NxN با مقادیر صفر را تشکیل می‌دهیم و سپس تصویر را اسکن کرده و به ازای هر پیکسل از (IR(x,y، سطر و ستون متناظر با nr و ng در ماتریس هیستوگرام را یک واحد اضافه می‌کنیم.
 
  ج) حال تصویر Likelihood تصویر رنگی یعنی (ILH(x,y را بدین شکل تشکیل می‌دهیم که در هر مکان (x,y) آن بر اساس nr و ng نقطه متناظر در تصویر اصلی یعنی (I(x,y، مقدار (nr, ng) از ماتریس H را در (ILH(x,y قرار می‌دهیم. یعنی (ILH(x,y)=H(nr, ng که در آن (nr,ng]=I(x,y]
+
+![Screen Shot 2023-07-28 at 3 01 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ec0ee326-13ea-432a-abaf-69f97bd19411)
+
 
 خلاصه
 
