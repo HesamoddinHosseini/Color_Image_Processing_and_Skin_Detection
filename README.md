@@ -18,7 +18,9 @@ b. Now we form the two-dimensional histogram H(n_r,n_g) for a sample part of the
 
 ![Screen Shot 2023-07-28 at 3 01 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ec0ee326-13ea-432a-abaf-69f97bd19411)
 
+2- Based on this, use the Im1910 image as an example of skin images and create a two-dimensional histogram for it. For this purpose, you should normalize the colors in this image and then quantize the resulting values to 128 levels. Now, with this histogram, obtain the Likelihood image for Im1911 and Im1916 images, and make the resulting ILH(x,y) image binary. Use thresholding to binarize. Then select 3 other images as you wish and run and test the above algorithm for skin detection on it.
 
+Why doesn't the algorithm recognize all points of the skin and it also recognizes pixels as wrong skin?
 
 
 Abstract)
@@ -47,8 +49,11 @@ Hesamoddin Hosseini
 
 ![Screen Shot 2023-07-28 at 3 01 15 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ec0ee326-13ea-432a-abaf-69f97bd19411)
 
+2-	حال بر این اساس، تصویر Im1910 را به عنوان نمونه‌ای از تصاویر پوست استفاده کرده و برای آن هیستوگرام دو بعدی را تشکیل دهید. برای این منظور بایستی در این تصویر رنگها را نرمالیزه کرده و سپس مقادیر حاصل را به 128 سطح کوانتایز کنید. حال با داشتن این هیستوگرام تصویر Likelihood را برای تصاویر Im1911 و Im1916 بدست آورده، تصویر (ILH(x,y حاصل را باینری کنید. برای  باینری کردن از آستانه‌گذاری استفاده کنید. سپس 3 تصویر دیگر را نیز به دلخواه انتخاب کرده و الگوریتم فوق برای تشخیص پوست را بر روی آن اجرا و آزمایش کنید.
 
-خلاصه
+چرا الگوریتم تمام نقاط پوست را تشخیص نداده و پیکسلهایی را نیز به غلط پوست تشخیص می‌دهد؟
+
+خلاصه)
 
 در بخش اول این مینی پروژه سه فضای رنگ به جز فضاهای رنگ معرفی شده در درس را معرفی کرده و در هر مورد ویژگی های فضای رنگ، کاربردها و ارتباط آن با فضای رنگ RGB یا HSI صحبت نموده ایم.
 
