@@ -14,6 +14,14 @@ Filtering operations in the frequency domain
 
 The Im421 to Im423 images are each made up of two different images, one image passed through a low-pass filter and the other through a high-pass filter, and finally grouped together at the appropriate intensity setting. Based on this, create such an image by considering two of your favorite images.
 
+
+Abstract)
+
+In the first part of this mini-project, we have introduced three color spaces except the color spaces introduced in the lesson, and in each case we have discussed the characteristics of the color space, its applications, and its relationship with the RGB or HSI color space.
+In the second part, we will examine one of the simple and efficient algorithms for skin detection (Skin Detection), which is an algorithm based on color differentiation. This algorithm is known as histogram back-projection.
+In this algorithm, we first convert the image into a color space in which chromaticity is extracted. Here we use the normalized color space. For this purpose, we normalize the RGB color space. In detecting skin color, we only use red and green surfaces and ignore the blue surface. Now, in this image, we obtain the amount of green and red color of each pixel and form a two-dimensional histogram, and then we apply the special image in which we want to form the skin to the histogram to obtain the skin. For this purpose, we quantize the r and g values in this part of the image to N levels. We form the NxN matrix H with zero values and then scan the image and detect the skin.
+We use Matlab to implement this project.
+
 Hesamoddin Hosseini
 
 سوال)
