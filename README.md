@@ -51,6 +51,11 @@ Fig Im1912
 
 <img width="693" alt="Screen Shot 2023-07-28 at 3 18 41 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ddb4b907-ecae-4509-9f42-46acc675b265">
 
+Fig Im1913
+
+![Screen Shot 2023-07-28 at 3 22 39 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/6fdf7c5b-0a5c-4fc7-bcf9-a48cbd34edf3)
+
+
 
 Hesamoddin Hosseini
 
@@ -106,6 +111,10 @@ Fig Im 1911:
 Fig Im 1912:
 
 <img width="693" alt="Screen Shot 2023-07-28 at 3 18 41 pm" src="https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/ddb4b907-ecae-4509-9f42-46acc675b265">
+
+Fig Im1913
+
+![Screen Shot 2023-07-28 at 3 22 39 pm](https://github.com/HesamoddinHosseini/Color_Image_Processing_and_Skin_Detection/assets/89314766/6fdf7c5b-0a5c-4fc7-bcf9-a48cbd34edf3)
 
 
 Hesamoddin Hosseini
